@@ -24,11 +24,10 @@ I want to become a developer who knows the fun of learning.
 </p>
 
 #
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=namjaromang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namjaromang&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
+#
 <p align="center">
 <a href="https://two-think.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&lisdsnk=https://two-think.com"/>&nbsp 
 </p>
-
-#
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=namjaromang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namjaromang&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |

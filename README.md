@@ -31,6 +31,6 @@ I want to become a developer who knows the fun of learning.
 
   #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=namjaromang&show_icons=true&theme=default)  
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namjaromang&layout=compact&theme=default)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)

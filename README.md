@@ -23,10 +23,10 @@ I want to become a developer who knows the fun of learning.
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
-<h3 align="center">•••</h3>
+#
 
 <p align="center">
-  <a href="https://two-think.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&lisdsnk=https://two-think.com"/>  
+<a href="https://two-think.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&lisdsnk=https://two-think.com"/>&nbsp 
 </p>
 
   #
